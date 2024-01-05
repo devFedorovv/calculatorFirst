@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="_0" translatable="false">0</string>
+    <string name="noll" translatable="false">0</string>
+    <string name="_6" translatable="false">6</string>
+    <string name="_7" translatable="false">7</string>
+    <string name="_8" translatable="false">8</string>
+    <string name="_9" translatable="false">9</string>
+    <string name="ac">AC</string>
+    <string name="dell" translatable="false">dell</string>
+    <string name="x" translatable="false">x</string>
+    <string name="req">req</string>
+
+    <string name="minus">minus</string>
+    <string name="plus">plus</string>
+    <string name="point">point</string>
+    <string name="c" translatable="false">C</string>
+</resources>
